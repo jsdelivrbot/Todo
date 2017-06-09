@@ -1,0 +1,8 @@
+{
+  "name": "Basic Todo app",
+  "description": "A simple intuitive todo app",
+  "repository": "https://github.com/nayray21/Todo",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
