@@ -83,7 +83,7 @@ class Home extends Component {
         return (
             <div id="home-wrap">
                 <nav>
-                    <h1>Simple Todo</h1>
+                    <h1>Simple To-do</h1>
                 </nav>
                 <form>
                     <input id="task-input" placeholder="new todo"/>

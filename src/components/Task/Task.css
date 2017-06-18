@@ -25,7 +25,7 @@
   cursor: pointer;
   padding-bottom: 7px; }
 
-@media(min-width: 1000px) {
+@media(min-width: 100px) {
   .task-wrap {
     width: 70%;
     height: 80px;
